@@ -12,4 +12,4 @@ The library used in this project are listed below:
 * pyrebase, Python library that serves as a Python interface for the Firebase platform.
 ## Display
 ![Tampilan Awal](img-01.jpg)
-![Tampilan Simulasi]()
+![Tampilan Simulasi](img-02.jpg)
