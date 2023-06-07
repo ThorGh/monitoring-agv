@@ -11,3 +11,4 @@ The library used in this project are listed below:
 * PyQt5, framework for developing graphical user interfaces (GUIs).
 * pyrebase, Python library that serves as a Python interface for the Firebase platform.
 ## Display
+[Tampilan Awal](img-01.jpg)
